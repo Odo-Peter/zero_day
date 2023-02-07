@@ -1,0 +1,1 @@
+This is not an empty readme file, this is specifically showing that the vagrant folder is doing all right.
